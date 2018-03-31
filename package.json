@@ -1,0 +1,11 @@
+{
+  "name": "ymb-vue-toast",
+  "version": "1.0.0",
+  "description": "一个简单到近乎白痴的vue-toast插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yemubing",
+  "license": "ISC"
+}
